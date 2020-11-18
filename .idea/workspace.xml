@@ -25,7 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="CSS : Footer V1" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="CSS : Footer V1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
+    </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,6 +106,9 @@
       <workItem from="1605451553712" duration="307000" />
       <workItem from="1605713349186" duration="212000" />
       <workItem from="1605714002820" duration="124000" />
+      <workItem from="1605714233909" duration="1364000" />
+      <workItem from="1605738937773" duration="13000" />
+      <workItem from="1605738956139" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -147,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605377462956</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit : transfert de sauvegarde">
+      <created>1605714265066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605714265066</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,9 +192,14 @@
     <MESSAGE value="HTML : articles + galerie" />
     <MESSAGE value="HTML : Corrections des pages" />
     <MESSAGE value="CSS : Footer V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS : Footer V1" />
+    <MESSAGE value="Commit : transfert de sauvegarde" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit : transfert de sauvegarde" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715235195" />
     <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605130262081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,14 +256,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="179" key="GridCell.Tab.2.right/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605715374162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715374162" />
     <state x="2727" y="487" key="VCS.ChangelistChooser" timestamp="1605020235864">
       <screen x="1920" y="54" width="1920" height="1040" />
     </state>
     <state x="2727" y="487" key="VCS.ChangelistChooser/0.0.1920.1040/1920.54.1920.1040@1920.54.1920.1040" timestamp="1605020235864" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605714047921">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605714273556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605714047921" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605714273556" />
+    <state x="845" y="250" width="202" height="539" key="ftp.server.browser" timestamp="1605715368242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="250" width="202" height="539" key="ftp.server.browser/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715368242" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1605131603503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
