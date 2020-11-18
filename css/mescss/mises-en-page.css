@@ -1,0 +1,9 @@
+footer {
+    background-color: #F2F2F2;
+    margin: 0 -20px;
+    padding: 10px 80px 14px 14px;
+}
+footer>img[src^="./img/icones/MMI_dut_standard.svg"]{
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Mono:wght@300;400&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.6;
+    margin: 0 20px;
+}
+h1{
+    font-family: 'Roboto Mono Light', monospace;
+    color: #001DB1;
+    font-size: 4.2rem;
+    text-align: right;
+}
+.titre-index{
+    text-align: center;
+}
+span {
+    color: #038C65;
+}
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    color: #014029;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+footer {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #707070;
+}
+footer>a {
+    color: #001DB1;
+}
+footer>a:hover {
+    text-decoration: underline;
+}
