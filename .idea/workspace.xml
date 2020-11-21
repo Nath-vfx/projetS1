@@ -25,10 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu fonctionnel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
@@ -117,7 +118,9 @@
       <workItem from="1605738937773" duration="13000" />
       <workItem from="1605738956139" duration="775000" />
       <workItem from="1605777600145" duration="1329000" />
-      <workItem from="1605867974521" duration="5688000" />
+      <workItem from="1605867974521" duration="7226000" />
+      <workItem from="1605891292806" duration="410000" />
+      <workItem from="1605967768715" duration="1793000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -203,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605873287473</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Menu fonctionnel">
+      <created>1605873757493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605873757493</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +243,8 @@
     <MESSAGE value="Bugs liens css" />
     <MESSAGE value="Corrections bug affichage images" />
     <MESSAGE value="Menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu" />
+    <MESSAGE value="Menu fonctionnel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu fonctionnel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
