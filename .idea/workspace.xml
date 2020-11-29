@@ -25,11 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu fonctionnel">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Début : carrousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
@@ -75,7 +73,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -120,7 +118,14 @@
       <workItem from="1605777600145" duration="1329000" />
       <workItem from="1605867974521" duration="7226000" />
       <workItem from="1605891292806" duration="410000" />
-      <workItem from="1605967768715" duration="1793000" />
+      <workItem from="1605967768715" duration="1820000" />
+      <workItem from="1606133089150" duration="217000" />
+      <workItem from="1606135289492" duration="3000" />
+      <workItem from="1606235087191" duration="1254000" />
+      <workItem from="1606313096028" duration="1190000" />
+      <workItem from="1606338509483" duration="117000" />
+      <workItem from="1606340809370" duration="613000" />
+      <workItem from="1606666764884" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -213,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605873757493</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Début : carrousel">
+      <created>1605969594692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605969594692</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +256,8 @@
     <MESSAGE value="Corrections bug affichage images" />
     <MESSAGE value="Menu" />
     <MESSAGE value="Menu fonctionnel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu fonctionnel" />
+    <MESSAGE value="Début : carrousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début : carrousel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -259,9 +272,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130262081" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605130260783">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606338625267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606338625267" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130260783" />
     <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1605132909568">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -311,20 +325,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="179" key="GridCell.Tab.2.right/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state x="508" y="171" key="SettingsEditor" timestamp="1605872791349">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606133288454">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715374162" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1080@0.0.1920.1040" timestamp="1606133288454" />
     <state x="508" y="171" key="SettingsEditor/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605872791349" />
     <state x="843" y="450" key="VCS.ChangelistChooser" timestamp="1605868222457">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="2727" y="487" key="VCS.ChangelistChooser/0.0.1920.1040/1920.54.1920.1040@1920.54.1920.1040" timestamp="1605020235864" />
     <state x="843" y="450" key="VCS.ChangelistChooser/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605868222457" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605739276505">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="596" y="263" key="Vcs.Push.Dialog.v2" timestamp="1605969597245">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605739276505" />
+    <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605969597245" />
     <state x="845" y="250" width="202" height="539" key="ftp.server.browser" timestamp="1605715368242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
