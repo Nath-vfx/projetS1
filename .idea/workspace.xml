@@ -25,12 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction : taille des images">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Avancé bouton lire la suite">
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/Logo_MMI_small_.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/logo_noir_zeta.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
@@ -70,6 +73,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -79,6 +83,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AleXFroZen\Desktop\projetS1\css\mescss" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AleXFroZen\Google Drive\Cours\Projet\projetS1\img" />
     </key>
@@ -127,7 +134,10 @@
       <workItem from="1606313096028" duration="1190000" />
       <workItem from="1606338509483" duration="117000" />
       <workItem from="1606340809370" duration="613000" />
-      <workItem from="1606666764884" duration="2210000" />
+      <workItem from="1606666764884" duration="2980000" />
+      <workItem from="1606678560334" duration="4835000" />
+      <workItem from="1606684415143" duration="1551000" />
+      <workItem from="1606686301752" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -234,7 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606667440892</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bandeau de navigation">
+      <created>1606669168675</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606669168675</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Avancé bouton lire la suite">
+      <created>1606683913048</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606683913048</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +277,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Add index.html" />
     <MESSAGE value="HTML : Accueil" />
@@ -267,7 +292,10 @@
     <MESSAGE value="Menu fonctionnel" />
     <MESSAGE value="Début : carrousel" />
     <MESSAGE value="Correction : taille des images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction : taille des images" />
+    <MESSAGE value="Bandeau de navigation" />
+    <MESSAGE value="Commit ajout d'image" />
+    <MESSAGE value="Avancé bouton lire la suite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avancé bouton lire la suite" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -282,10 +310,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130262081" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606338625267">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606683514703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606338625267" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606683514703" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130260783" />
     <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1605132909568">
       <screen x="0" y="0" width="1920" height="1040" />

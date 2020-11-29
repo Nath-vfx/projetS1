@@ -28,7 +28,8 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
 }
 
 /*Lire la suite*/
-body > a {
+.lire-suite{
+    position: relative;
     display: block;
     background-color: #014029;
     color: white;
@@ -37,4 +38,14 @@ body > a {
     line-height: 50px;
     padding-left: 1.8rem;
     margin-bottom: 4rem;
+}
+.lire-suite::after {
+    content: url("icones-css/arrow-right.svg");
+    color: #038C65;
+    font-size: 4rem;
+    position: absolute;
+    width: 8rem;
+    transform: rotate(90deg);
+    right: 3rem;
+    top: -2.1rem;
 }
