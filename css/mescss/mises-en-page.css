@@ -12,3 +12,13 @@ footer>img[src^="./img/icones/MMI_dut_standard.svg"]{
     width: 50%;
     height: 50%;
 }
+.bandeau-navigation {
+    background-color: #68BAA3;
+    margin: 0 -20px;
+    height: 9rem;
+}
+
+.bandeau-navigation > img {
+    width: 25%;
+    height: auto;
+}

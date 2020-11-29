@@ -25,10 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Début : carrousel">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction : taille des images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
@@ -125,7 +127,7 @@
       <workItem from="1606313096028" duration="1190000" />
       <workItem from="1606338509483" duration="117000" />
       <workItem from="1606340809370" duration="613000" />
-      <workItem from="1606666764884" duration="596000" />
+      <workItem from="1606666764884" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -225,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605969594692</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Correction : taille des images">
+      <created>1606667440892</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667440892</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +266,8 @@
     <MESSAGE value="Menu" />
     <MESSAGE value="Menu fonctionnel" />
     <MESSAGE value="Début : carrousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début : carrousel" />
+    <MESSAGE value="Correction : taille des images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction : taille des images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
