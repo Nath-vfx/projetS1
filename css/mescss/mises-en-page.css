@@ -2,13 +2,17 @@ img {
     max-width: 100%;
     height: auto;
 }
-
+/*footer*/
 footer {
-    background-color: #F2F2F2;
+    background-color: #038C65;
     margin: 0 -20px;
     padding: 10px 80px 14px 14px;
 }
 footer>img[src^="./img/icones/MMI_dut_standard.svg"]{
+    width: 50%;
+    height: 50%;
+}
+footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     width: 50%;
     height: 50%;
 }
@@ -21,4 +25,16 @@ footer>img[src^="./img/icones/MMI_dut_standard.svg"]{
 .bandeau-navigation > img {
     width: 25%;
     height: auto;
+}
+
+/*Lire la suite*/
+body > a {
+    display: block;
+    background-color: #014029;
+    color: white;
+    width: auto;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 1.8rem;
+    margin-bottom: 4rem;
 }

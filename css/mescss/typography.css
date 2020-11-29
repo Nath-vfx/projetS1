@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Mono:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap');
 
 html{
     font-size: 62.5%;
@@ -8,7 +8,7 @@ body {
     font-family: 'Inter', sans-serif;
     font-size: 1.6rem;
     line-height: 1.6;
-    margin: 0 20px;
+    margin: 0 13px;
 }
 h1{
     font-family: 'Roboto Mono Light', monospace;
@@ -37,11 +37,17 @@ ul{
 footer {
     font-size: 1.2rem;
     line-height: 1.6rem;
-    color: #707070;
+    color: #fff;
 }
 footer>a {
-    color: #001DB1;
+    color: darkgrey;
 }
 footer>a:hover {
     text-decoration: underline;
+}
+/*Lire la suite*/
+body > a > h3 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 2.4rem;
 }
