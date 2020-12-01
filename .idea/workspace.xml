@@ -25,10 +25,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Traits sous les titres">
-      <change afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Début formulaire">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/formulaire.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -134,7 +141,7 @@
       <workItem from="1606771701290" duration="894000" />
       <workItem from="1606816799555" duration="2000" />
       <workItem from="1606836571688" duration="125000" />
-      <workItem from="1606848739565" duration="4493000" />
+      <workItem from="1606848739565" duration="5373000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -276,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606852562294</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Début formulaire">
+      <created>1606853503122</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606853503122</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +330,8 @@
     <MESSAGE value="Bouton lire suite achevé" />
     <MESSAGE value="En-tête accueil mise en forme" />
     <MESSAGE value="Traits sous les titres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Traits sous les titres" />
+    <MESSAGE value="Début formulaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début formulaire" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">

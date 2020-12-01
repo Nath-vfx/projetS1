@@ -17,7 +17,9 @@ h1{
     font-size: 4.2rem;
     text-align: right;
 }
-
+body > p {
+    text-indent: 1.5rem;
+}
 .titre-index{
     text-align: center;
     text-transform: capitalize;

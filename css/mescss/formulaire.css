@@ -14,10 +14,10 @@ label {
 }
 input, textarea {
     font: 1.6rem sans-serif;
-    width: 300px;
+    width: 320px;
     box-sizing: border-box;
     border: 1px solid #E4E4E4;
 }
 input:focus, textarea:focus {
-
+    border-color: #707070;
 }
