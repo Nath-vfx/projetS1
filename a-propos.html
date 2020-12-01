@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/mescss/typography.css">
     <link rel="stylesheet" href="css/mescss/menu.css">
     <link rel="stylesheet" href="css/mescss/mises-en-page.css">
+    <link rel="stylesheet" href="css/mescss/formulaire.css">
     <title>Zeta - À propos</title>
 </head>
 <body>
@@ -35,6 +36,25 @@
 <h1>Contact</h1>
 <p>Une question ? Une suggestion ?
     Faites-en moi part !</p>
+<!--Formulaire-->
+<form action="/ma-page-de-traitement" method="post">
+    <div>
+        <label for="name">Nom :</label>
+        <input type="text" id="name" name="user_name">
+    </div>
+    <div>
+        <label for="name">Prénom :</label>
+        <input type="text" id="first-name" name="user_firstname">
+    </div>
+    <div>
+        <label for="mail">e-mail :</label>
+        <input type="email" id="mail" name="user_mail">
+    </div>
+    <div>
+        <label for="msg">Message :</label>
+        <textarea id="msg" name="user_message"></textarea>
+    </div>
+</form>
 
 <a href="autres-projets.html" class="lire-suite"><h3>Autres projets</h3></a>
 <footer>
