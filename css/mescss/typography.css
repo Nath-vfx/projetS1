@@ -12,18 +12,22 @@ body {
 }
 h1{
     font-family: 'Roboto Mono Light', monospace;
+    font-weight: lighter;
     color: #001DB1;
     font-size: 4.2rem;
     text-align: right;
 }
+
 .titre-index{
     text-align: center;
+    text-transform: capitalize;
 }
 span {
     color: #038C65;
 }
 h2 {
     font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
     text-align: center;
     color: #014029;
 }

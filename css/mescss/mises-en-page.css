@@ -10,6 +10,20 @@ header >.titre-index {
     padding: 30px 0 50px 0;
     border-radius: 0 0 30px 0;
 }
+/*Traits sous les titres*/
+#trait-titre {
+    position: relative;
+    display: block;
+    border-top: 1px solid #707070;
+    width: 241px;
+    left: 10.7rem;
+    margin-bottom: 20px;
+}
+/*Titres secondaires*/
+h2 {
+    display: block;
+    padding: 0 4.55rem;
+}
 /*footer*/
 footer {
     background-color: #038C65;
@@ -33,6 +47,13 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
 .bandeau-navigation > img {
     width: 25%;
     height: auto;
+}
+/*Articles scientifiques*/
+.articles-sciences {
+    display: block;
+    background-color: #68BAA3;
+    margin: 20px -4px 20px -20px;
+    padding: 8px 10px 8px 20px;
 }
 
 /*Lire la suite*/
