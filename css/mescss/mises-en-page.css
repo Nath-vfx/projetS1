@@ -78,3 +78,24 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     right: 3rem;
     top: -2.1rem;
 }
+/*Autres projets*/
+#projets li {
+    display: block;
+    position: relative;
+    background-color: #F2F2F2;
+    text-align: center;
+    margin: 0 -5px -20px -45px;
+    padding-left: 33%;
+
+}
+#projets li::before {
+    content: url("icones-css/question-solid.svg");
+    position: absolute;
+    width: 15%;
+    left: 20px;
+    top: 10px;
+}
+#projets li:last-of-type {
+    margin-bottom: 4.5rem;
+}
+
