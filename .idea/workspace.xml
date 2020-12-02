@@ -25,17 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Début formulaire">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Diverses corrections">
+      <change afterPath="$PROJECT_DIR$/css/mescss/carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/formulaire.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -141,7 +134,12 @@
       <workItem from="1606771701290" duration="894000" />
       <workItem from="1606816799555" duration="2000" />
       <workItem from="1606836571688" duration="125000" />
-      <workItem from="1606848739565" duration="5373000" />
+      <workItem from="1606848739565" duration="6185000" />
+      <workItem from="1606898729005" duration="3000" />
+      <workItem from="1606920493029" duration="3658000" />
+      <workItem from="1606927977875" duration="3786000" />
+      <workItem from="1606932716306" duration="382000" />
+      <workItem from="1606935759041" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -290,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606853503122</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Diverses corrections">
+      <created>1606854275619</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606854275619</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +336,8 @@
     <MESSAGE value="En-tête accueil mise en forme" />
     <MESSAGE value="Traits sous les titres" />
     <MESSAGE value="Début formulaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début formulaire" />
+    <MESSAGE value="Diverses corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diverses corrections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -346,10 +352,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130262081" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606683514703">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606929845309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606683514703" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606929845309" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130260783" />
     <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1605132909568">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -410,10 +416,10 @@
     </state>
     <state x="2727" y="487" key="VCS.ChangelistChooser/0.0.1920.1040/1920.54.1920.1040@1920.54.1920.1040" timestamp="1605020235864" />
     <state x="843" y="450" key="VCS.ChangelistChooser/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605868222457" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606686664444">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606854962582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606686664444" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606854962582" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605739276505" />
     <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605969597245" />
     <state x="845" y="250" width="202" height="539" key="ftp.server.browser" timestamp="1605715368242">
