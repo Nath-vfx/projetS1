@@ -25,14 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Carousel">
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/question-solid.svg" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Page autres-projets.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/carousel.css" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -143,7 +138,8 @@
       <workItem from="1606920493029" duration="3658000" />
       <workItem from="1606927977875" duration="3786000" />
       <workItem from="1606932716306" duration="382000" />
-      <workItem from="1606935759041" duration="7887000" />
+      <workItem from="1606935759041" duration="7984000" />
+      <workItem from="1606987341849" duration="2364000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -306,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606940785002</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Page autres-projets.html">
+      <created>1606943935574</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606943935574</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +352,8 @@
     <MESSAGE value="Début formulaire" />
     <MESSAGE value="Diverses corrections" />
     <MESSAGE value="Carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carousel" />
+    <MESSAGE value="Page autres-projets.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page autres-projets.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -364,6 +368,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130262081" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606943839494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606943839494" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606929845309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
