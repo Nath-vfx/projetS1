@@ -52,6 +52,7 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
 .articles-sciences {
     display: block;
     background-color: #68BAA3;
+    border-radius: 0 10px 10px 0;
     margin: 20px -4px 20px -20px;
     padding: 8px 10px 8px 20px;
 }
@@ -61,6 +62,7 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     position: relative;
     display: block;
     background-color: #014029;
+    border-radius: 10px;
     color: white;
     width: auto;
     height: 50px;

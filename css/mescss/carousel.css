@@ -4,6 +4,7 @@
 ul.carousel-items img {
     width: 329px;
     height: 156px;
+    border-radius: 10px 10px 0 0;
 }
 ul.carousel-items {
     padding: 20px 0;
@@ -19,6 +20,7 @@ li.carousel-item {
 .carousel-items h3 {
     display: block;
     background-color: #F2F2F2;
+    border-radius: 0 0 10px 10px;
     height: 84px;
     font-family: 'Roboto Mono', monospace;
     color: #014029;
