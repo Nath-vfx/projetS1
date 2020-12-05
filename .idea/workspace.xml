@@ -25,8 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction scrollbar">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Caroussel opérationnel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -138,7 +139,9 @@
       <workItem from="1606927977875" duration="3786000" />
       <workItem from="1606932716306" duration="382000" />
       <workItem from="1606935759041" duration="7984000" />
-      <workItem from="1606987341849" duration="2601000" />
+      <workItem from="1606987341849" duration="4708000" />
+      <workItem from="1607128171286" duration="739000" />
+      <workItem from="1607170420400" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -315,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606989881729</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Caroussel opérationnel">
+      <created>1606990143436</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606990143436</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +345,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first commit" />
     <MESSAGE value="Add index.html" />
     <MESSAGE value="HTML : Accueil" />
     <MESSAGE value="HTML : neo" />
@@ -360,7 +369,8 @@
     <MESSAGE value="Carousel" />
     <MESSAGE value="Page autres-projets.html" />
     <MESSAGE value="Correction scrollbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction scrollbar" />
+    <MESSAGE value="Caroussel opérationnel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caroussel opérationnel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
