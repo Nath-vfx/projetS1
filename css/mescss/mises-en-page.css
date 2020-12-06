@@ -142,3 +142,14 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     text-align: left;
     padding-left: 10px;
 }
+/*mises en page galerie*/
+main>ul, main>article>ul {
+    padding-left: 0;
+}
+main>ul>li, main>article>ul>li {
+    display: block;
+}
+main>article>ul>li {
+    background-color: #F2F2F2;
+    margin: 40px 40px;
+}

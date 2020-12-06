@@ -25,14 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Ajustement des angles images + zones colorées">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Bandeau titres">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -147,7 +144,8 @@
       <workItem from="1606987341849" duration="4708000" />
       <workItem from="1607128171286" duration="739000" />
       <workItem from="1607170420400" duration="21000" />
-      <workItem from="1607186187922" duration="7253000" />
+      <workItem from="1607186187922" duration="7452000" />
+      <workItem from="1607256266263" duration="4047000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -352,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607191816863</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Bandeau titres">
+      <created>1607193773097</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607193773097</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +377,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="HTML : articles + galerie" />
     <MESSAGE value="HTML : Corrections des pages" />
     <MESSAGE value="CSS : Footer V1" />
     <MESSAGE value="Commit : transfert de sauvegarde" />
@@ -397,7 +401,8 @@
     <MESSAGE value="Correction : emplacement boutons" />
     <MESSAGE value="Texte par dessus les images" />
     <MESSAGE value="Ajustement des angles images + zones colorées" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustement des angles images + zones colorées" />
+    <MESSAGE value="Bandeau titres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bandeau titres" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -480,10 +485,10 @@
     </state>
     <state x="2727" y="487" key="VCS.ChangelistChooser/0.0.1920.1040/1920.54.1920.1040@1920.54.1920.1040" timestamp="1605020235864" />
     <state x="843" y="450" key="VCS.ChangelistChooser/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605868222457" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606854962582">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607193778467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606854962582" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607193778467" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605739276505" />
     <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605969597245" />
     <state x="845" y="250" width="202" height="539" key="ftp.server.browser" timestamp="1605715368242">
