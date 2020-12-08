@@ -25,11 +25,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu V1">
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo_noir_zeta.svg" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu V2">
+      <change afterPath="$PROJECT_DIR$/css/mescss/master.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -149,7 +156,8 @@
       <workItem from="1607264625580" duration="3150000" />
       <workItem from="1607347639156" duration="1266000" />
       <workItem from="1607379434094" duration="398000" />
-      <workItem from="1607441573225" duration="1900000" />
+      <workItem from="1607441573225" duration="2215000" />
+      <workItem from="1607444332949" duration="3222000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -375,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607442189719</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Menu V2">
+      <created>1607443560628</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607443560628</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +410,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit : transfert de sauvegarde" />
     <MESSAGE value="Bugs liens css" />
     <MESSAGE value="Corrections bug affichage images" />
     <MESSAGE value="Menu" />
@@ -420,7 +434,8 @@
     <MESSAGE value="Bandeau titres" />
     <MESSAGE value="Début mise en page galerie.html" />
     <MESSAGE value="Menu V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu V1" />
+    <MESSAGE value="Menu V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu V2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -498,6 +513,10 @@
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715374162" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1080@0.0.1920.1040" timestamp="1606133288454" />
     <state x="508" y="171" key="SettingsEditor/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605872791349" />
+    <state x="673" y="260" width="540" height="524" key="StructurePopup" timestamp="1607444547210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="260" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607444547210" />
     <state x="843" y="450" key="VCS.ChangelistChooser" timestamp="1605868222457">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

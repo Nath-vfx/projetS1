@@ -10,6 +10,7 @@ header >.titre-index {
     padding: 30px 0 50px 0;
     border-radius: 0 0 30px 0;
 }
+
 /*bandeau titres*/
 .bandeau-titre {
     height: 94px;
@@ -39,13 +40,13 @@ footer {
     margin: 0 -20px;
     padding: 10px 80px 14px 14px;
 }
-footer>img[src^="./img/icones/MMI_dut_standard.svg"]{
-    width: 50%;
-    height: 50%;
-}
 footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     width: 50%;
     height: 50%;
+    margin: -10px 0 -20px 0;
+}
+footer > p {
+    margin-top: 4px;
 }
 .bandeau-navigation {
     background-color: #68BAA3;

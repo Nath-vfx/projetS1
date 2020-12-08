@@ -73,11 +73,9 @@
     text-transform: uppercase;
 
 }
-
 .menu li {
-    display: block;
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     transform: translateX(80px);
     opacity: 0;
     transition: all .4s ease;
@@ -91,6 +89,8 @@
     text-align: center;
 }
 .menu a {
+    display: block;
+    width: 100%;
     color: white;
     font-family: 'Roboto Mono', monospace;
 }
