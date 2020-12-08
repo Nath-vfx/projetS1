@@ -33,17 +33,17 @@
 
 .menu-open .nav-toggle-bar{
     transform: rotate(135deg);
-    background-color: white;
+    background-color: black;
 }
 .menu-open .nav-toggle-bar::before,
 .menu-open .nav-toggle-bar::after{
     transform: rotate(90deg);
-    background-color: white;
+    background-color: black;
     top: 0;
 }
 
 .menu {
-    background-color: midnightblue;
+    background-color: white;
     position: fixed;
     top: 0;
     left: 0;
@@ -74,14 +74,21 @@
 }
 
 .menu li {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     transform: translateX(80px);
     opacity: 0;
     transition: all .4s ease;
+    background-color: #038C65;
+    padding: 10px;
+}
+.menu li:nth-child(2n) {
+    background-color: #707070;
 }
 .menu a {
     color: white;
+    font-family: 'Roboto Mono', monospace;
 }
+/*icones menu*/
 
 .menu-open .menu li{
     transform: translateX(0);
