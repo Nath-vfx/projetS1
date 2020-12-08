@@ -67,13 +67,16 @@
 
 .menu ul {
     list-style: none;
-    margin: 0;
+    margin: 0 10px;
     padding: 0;
     font-size: 2.3rem;
     text-transform: uppercase;
+
 }
 
 .menu li {
+    display: block;
+    border-radius: 10px;
     margin-bottom: 10px;
     transform: translateX(80px);
     opacity: 0;
@@ -84,11 +87,26 @@
 .menu li:nth-child(2n) {
     background-color: #707070;
 }
+.menu li:first-child {
+    text-align: center;
+}
 .menu a {
     color: white;
     font-family: 'Roboto Mono', monospace;
 }
 /*icones menu*/
+
+.menu a[href="index.html"]:before {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    content: "";
+    background: url(icones-css/logo_noir_zeta.svg) no-repeat;
+    background-size: contain;
+    padding-left: 10px;
+    margin-bottom: -18px;
+    margin-left: -30px;
+}
 
 .menu-open .menu li{
     transform: translateX(0);

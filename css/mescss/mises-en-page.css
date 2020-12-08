@@ -111,9 +111,7 @@ footer>img[src^="./img/icones/Logo_MMI_small_.svg"]{
     margin-bottom: 4.5rem;
 }
 /*blocs images*/
-.bloc-img img {
-    width: 100%;
-}
+
 .text-img{
     width: 100%;
     position: relative;

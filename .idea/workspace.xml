@@ -25,9 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Début mise en page galerie.html">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Menu V1">
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo_noir_zeta.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -147,7 +149,7 @@
       <workItem from="1607264625580" duration="3150000" />
       <workItem from="1607347639156" duration="1266000" />
       <workItem from="1607379434094" duration="398000" />
-      <workItem from="1607441573225" duration="331000" />
+      <workItem from="1607441573225" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -366,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607260360368</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Menu V1">
+      <created>1607442189719</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1607442189719</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +395,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CSS : Footer V1" />
     <MESSAGE value="Commit : transfert de sauvegarde" />
     <MESSAGE value="Bugs liens css" />
     <MESSAGE value="Corrections bug affichage images" />
@@ -411,7 +419,8 @@
     <MESSAGE value="Ajustement des angles images + zones colorées" />
     <MESSAGE value="Bandeau titres" />
     <MESSAGE value="Début mise en page galerie.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début mise en page galerie.html" />
+    <MESSAGE value="Menu V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu V1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
@@ -430,10 +439,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606943839494" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607347691764">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607442624866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607347691764" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607442624866" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130260783" />
     <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1605132909568">
       <screen x="0" y="0" width="1920" height="1040" />
