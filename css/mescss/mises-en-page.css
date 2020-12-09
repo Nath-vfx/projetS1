@@ -152,3 +152,15 @@ main>article>ul>li {
     background-color: #F2F2F2;
     margin: 40px 40px;
 }
+img[src="./img/photos/Géraud%20brun.jpg"]{
+    width: 269px;
+    height: auto;
+}
+.films > img {
+    width: 124px;
+    height: 166px;
+    display: inline-block;
+    padding: 2rem;
+    vertical-align: center;
+}
+

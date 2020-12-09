@@ -75,6 +75,7 @@ body > a > h3 {
     font-family: 'Roboto Mono', monospace;
     color: #707070;
     font-size: 2rem;
+    line-height: 3rem;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -82,6 +83,7 @@ body > a > h3 {
 .lien-ex > p {
     font-family: 'Inter', sans-serif;
     font-size: 1.8rem;
+    line-height: 3rem;
     color: black;
     text-align: center;
     padding: 0;
