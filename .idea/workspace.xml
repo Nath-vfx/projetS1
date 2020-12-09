@@ -25,11 +25,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Animation : transitions">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Galerie : correction traits catégories">
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-white.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/arrow-up.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -152,7 +155,7 @@
       <workItem from="1607441573225" duration="2215000" />
       <workItem from="1607444332949" duration="4699000" />
       <workItem from="1607462280241" duration="494000" />
-      <workItem from="1607544207002" duration="2017000" />
+      <workItem from="1607544207002" duration="4034000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -392,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607447673463</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Galerie : v final">
+      <created>1607546336104</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1607546336104</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Galerie : correction traits catégories">
+      <created>1607546514248</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1607546514248</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,8 +429,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Corrections bug affichage images" />
-    <MESSAGE value="Menu" />
     <MESSAGE value="Menu fonctionnel" />
     <MESSAGE value="Début : carrousel" />
     <MESSAGE value="Correction : taille des images" />
@@ -437,106 +452,8 @@
     <MESSAGE value="Menu V1" />
     <MESSAGE value="Menu V2" />
     <MESSAGE value="Animation : transitions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animation : transitions" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="536" y="165" key="#SSH_Configurations" timestamp="1605715235195">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715235195" />
-    <state x="788" y="329" key="#Web_Browsers" timestamp="1605872820507">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="788" y="329" key="#Web_Browsers/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605872820507" />
-    <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605130262081">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130262081" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606943839494">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606943839494" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607442624866">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607442624866" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605130260783" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.1.bottom" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state width="1877" height="179" key="GridCell.Tab.1.center" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.1.center/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.1.left" timestamp="1605132909568">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.1.left/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909568" />
-    <state width="1877" height="179" key="GridCell.Tab.1.right" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.1.right/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state width="1877" height="179" key="GridCell.Tab.2.bottom" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state width="1877" height="179" key="GridCell.Tab.2.center" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.2.center/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state width="1877" height="179" key="GridCell.Tab.2.left" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.2.left/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state width="1877" height="179" key="GridCell.Tab.2.right" timestamp="1605132909569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="179" key="GridCell.Tab.2.right/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605132909569" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1606133288454">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715374162" />
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.54.1920.1080@0.0.1920.1040" timestamp="1606133288454" />
-    <state x="508" y="171" key="SettingsEditor/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605872791349" />
-    <state x="673" y="260" width="540" height="524" key="StructurePopup" timestamp="1607444547210">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="673" y="260" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607444547210" />
-    <state x="843" y="450" key="VCS.ChangelistChooser" timestamp="1605868222457">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="2727" y="487" key="VCS.ChangelistChooser/0.0.1920.1040/1920.54.1920.1040@1920.54.1920.1040" timestamp="1605020235864" />
-    <state x="843" y="450" key="VCS.ChangelistChooser/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605868222457" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607260365949">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607260365949" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605739276505" />
-    <state x="596" y="263" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1920.54.1920.1080@62.0.1858.1080" timestamp="1605969597245" />
-    <state x="845" y="250" width="202" height="539" key="ftp.server.browser" timestamp="1605715368242">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="845" y="250" width="202" height="539" key="ftp.server.browser/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605715368242" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1605131603503">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.54.1920.1040@0.0.1920.1040" timestamp="1605131603503" />
+    <MESSAGE value="Galerie : v final" />
+    <MESSAGE value="Galerie : correction traits catégories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Galerie : correction traits catégories" />
   </component>
 </project>
