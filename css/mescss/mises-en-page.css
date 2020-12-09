@@ -163,4 +163,12 @@ img[src="./img/photos/Géraud%20brun.jpg"]{
     padding: 2rem;
     vertical-align: center;
 }
-
+.trait-mise-en-page {
+    position: relative;
+    display: block;
+    border-top: 1px solid #707070;
+    width: 241px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
