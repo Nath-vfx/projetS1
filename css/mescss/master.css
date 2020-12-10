@@ -1,5 +1,6 @@
 body{
     animation: slidein 0.5s;
+    overflow-x: hidden;
 }
 @keyframes slidein {
     from{
