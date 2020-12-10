@@ -7,16 +7,23 @@ form {
 form div + div {
     margin-top: 2rem;
 }
-label {
-    display: inline-block;
-    width: 90px;
-    text-align: right;
-}
-input, textarea {
-    font: 1.6rem sans-serif;
+input {
+    display: block;
+    height: 40px;
+    font: 1.8rem "Inter", sans-serif;
     width: 320px;
     box-sizing: border-box;
     border: 1px solid #E4E4E4;
+    padding-left: 8px;
+}
+textarea {
+    display: block;
+    height: 400px;
+    width: 320px;
+    font: 1.8rem "Inter", sans-serif;
+    box-sizing: border-box;
+    border: 1px solid #E4E4E4;
+    padding: 5px 0 0 8px;
 }
 input:focus, textarea:focus {
     border-color: #707070;

@@ -25,11 +25,28 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="à propos : v1">
-      <change afterPath="$PROJECT_DIR$/img/icones/neo.svg" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Background : neo">
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/Logo_vuittenez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/Web_1920_1 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/adn-tech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/behind-the-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/llama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo-design-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo-lucas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo_bleu.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/formulaire.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/formulaire.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/Logo_vuittenez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/Web_1920_1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/adn-tech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/behind-the-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/llama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/logo-design-transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/logo-lucas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/logo_bleu.png" beforeDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -153,7 +170,8 @@
       <workItem from="1607444332949" duration="4699000" />
       <workItem from="1607462280241" duration="494000" />
       <workItem from="1607544207002" duration="4639000" />
-      <workItem from="1607595798500" duration="972000" />
+      <workItem from="1607595798500" duration="2486000" />
+      <workItem from="1607630724128" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -414,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607548590102</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Background : neo">
+      <created>1607597047430</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1607597047430</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +459,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Début : carrousel" />
     <MESSAGE value="Correction : taille des images" />
     <MESSAGE value="Bandeau de navigation" />
     <MESSAGE value="Commit ajout d'image" />
@@ -459,6 +483,7 @@
     <MESSAGE value="Galerie : v final" />
     <MESSAGE value="Galerie : correction traits catégories" />
     <MESSAGE value="à propos : v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="à propos : v1" />
+    <MESSAGE value="Background : neo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Background : neo" />
   </component>
 </project>
