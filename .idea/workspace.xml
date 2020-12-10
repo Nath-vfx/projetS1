@@ -25,8 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Formulaire fini">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections de bugs divers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -153,7 +160,7 @@
       <workItem from="1607595798500" duration="2486000" />
       <workItem from="1607630724128" duration="1362000" />
       <workItem from="1607635767275" duration="1790000" />
-      <workItem from="1607641397667" duration="775000" />
+      <workItem from="1607641397667" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -428,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607632070515</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Corrections de bugs divers">
+      <created>1607642404365</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1607642404366</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Bandeau de navigation" />
     <MESSAGE value="Commit ajout d'image" />
     <MESSAGE value="Avancé bouton lire la suite" />
     <MESSAGE value="Bouton lire suite achevé" />
@@ -473,6 +486,7 @@
     <MESSAGE value="à propos : v1" />
     <MESSAGE value="Background : neo" />
     <MESSAGE value="Formulaire fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formulaire fini" />
+    <MESSAGE value="Corrections de bugs divers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections de bugs divers" />
   </component>
 </project>
