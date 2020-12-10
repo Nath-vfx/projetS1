@@ -197,3 +197,13 @@ img[src="./img/photos/Géraud%20brun.jpg"]{
     right: 3rem;
     top: -2.1rem;
 }
+/*neo*/
+#fond-neo {
+    position: relative;
+    right: -40%;
+    top: 20%;
+    width: 200%;
+}
+#fond-neo > img {
+    opacity: 0.1;
+}

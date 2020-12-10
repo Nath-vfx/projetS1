@@ -25,14 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Galerie : correction traits catégories">
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-grey.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/arrow-white.svg" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="à propos : v1">
+      <change afterPath="$PROJECT_DIR$/img/icones/neo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/arrow-up.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="">
@@ -155,7 +152,8 @@
       <workItem from="1607441573225" duration="2215000" />
       <workItem from="1607444332949" duration="4699000" />
       <workItem from="1607462280241" duration="494000" />
-      <workItem from="1607544207002" duration="4034000" />
+      <workItem from="1607544207002" duration="4639000" />
+      <workItem from="1607595798500" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -409,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607546514248</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="à propos : v1">
+      <created>1607548590102</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1607548590102</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +434,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Menu fonctionnel" />
     <MESSAGE value="Début : carrousel" />
     <MESSAGE value="Correction : taille des images" />
     <MESSAGE value="Bandeau de navigation" />
@@ -454,6 +458,7 @@
     <MESSAGE value="Animation : transitions" />
     <MESSAGE value="Galerie : v final" />
     <MESSAGE value="Galerie : correction traits catégories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Galerie : correction traits catégories" />
+    <MESSAGE value="à propos : v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="à propos : v1" />
   </component>
 </project>
