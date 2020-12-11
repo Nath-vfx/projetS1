@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections de bugs divers">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections &quot;user-scalable = no&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
@@ -72,7 +72,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../MAMP/htdocs/WP_CPE/wp-content/themes/THEME_CPE" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
@@ -160,7 +165,8 @@
       <workItem from="1607595798500" duration="2486000" />
       <workItem from="1607630724128" duration="1362000" />
       <workItem from="1607635767275" duration="1790000" />
-      <workItem from="1607641397667" duration="1446000" />
+      <workItem from="1607641397667" duration="2519000" />
+      <workItem from="1607693812299" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -442,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607642404366</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Corrections &quot;user-scalable = no&quot;">
+      <created>1607642878464</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1607642878464</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +475,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit ajout d'image" />
     <MESSAGE value="Avancé bouton lire la suite" />
     <MESSAGE value="Bouton lire suite achevé" />
     <MESSAGE value="En-tête accueil mise en forme" />
@@ -487,6 +499,7 @@
     <MESSAGE value="Background : neo" />
     <MESSAGE value="Formulaire fini" />
     <MESSAGE value="Corrections de bugs divers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections de bugs divers" />
+    <MESSAGE value="Corrections &quot;user-scalable = no&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections &quot;user-scalable = no&quot;" />
   </component>
 </project>
