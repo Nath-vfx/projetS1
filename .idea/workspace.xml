@@ -25,28 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Révision footer">
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/adn-tech.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/Logo_vuittenez.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/adn-tech.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/behind-the-web.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/black-reality.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/llama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/logo-design-transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/logo-lucas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/logo_laura-t.png" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections diverses + page &quot;Autres projet V1.1&quot;">
+      <change afterPath="$PROJECT_DIR$/img/icones/logo-tr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/logo_blanc.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/Logo_vuittenez.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/Web_1920_1 (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/adn-tech.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/behind-the-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/llama.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo-design-transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo-lucas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo_laura-t.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icones/neo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icones/neo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
@@ -180,7 +164,9 @@
       <workItem from="1607630724128" duration="1362000" />
       <workItem from="1607635767275" duration="1790000" />
       <workItem from="1607641397667" duration="2519000" />
-      <workItem from="1607693812299" duration="7695000" />
+      <workItem from="1607693812299" duration="9555000" />
+      <workItem from="1607705298498" duration="1336000" />
+      <workItem from="1607706710549" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -483,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607697766880</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Corrections diverses + page &quot;Autres projet V1.1&quot;">
+      <created>1607701950045</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1607701950045</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="En-tête accueil mise en forme" />
     <MESSAGE value="Traits sous les titres" />
     <MESSAGE value="Début formulaire" />
     <MESSAGE value="Diverses corrections" />
@@ -528,6 +520,7 @@
     <MESSAGE value="Corrections &quot;user-scalable = no&quot;" />
     <MESSAGE value="Corrections &quot;user-scalable = no&quot; + bug page neo" />
     <MESSAGE value="Révision footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Révision footer" />
+    <MESSAGE value="Corrections diverses + page &quot;Autres projet V1.1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections diverses + page &quot;Autres projet V1.1&quot;" />
   </component>
 </project>

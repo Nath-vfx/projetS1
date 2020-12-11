@@ -131,13 +131,21 @@ img[src="./img/icones/llama.png"] {
     width: 8rem;
     top: 2rem;
 }
-img[src="./img/icones/logo-lucas.png"] {
+img[src="./img/icones/logo-tr.png"] {
     width: 8rem;
     top: 2.5rem;
 }
 img[src="./img/icones/black-reality.png"] {
     width: 8rem;
     top: 1.6rem;
+}
+img[src="./img/icones/Logo_vuittenez.png"] {
+    width: 10rem;
+    top: 2rem;
+}
+img[src="./img/icones/logo_blanc.png"] {
+    width: 8rem;
+    top: 2rem;
 }
 
 /*
