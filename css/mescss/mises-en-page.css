@@ -94,13 +94,53 @@ footer > p {
 /*Autres projets*/
 #projets li {
     display: block;
+    box-sizing: border-box;
     position: relative;
     background-color: #F2F2F2;
     text-align: center;
     margin: 0 -5px -20px -45px;
     padding-left: 33%;
-
+    height: 130px;
 }
+#projets h3{
+    padding-top: 1rem;
+}
+#projets img {
+    display: block;
+    position: absolute;
+    left: 10px;
+    height: auto;
+}
+img[src="./img/icones/adn-tech.png"] {
+    top: 5px;
+    width: 8rem;
+}
+img[src="./img/icones/logo-design-transparent.png"] {
+    top: 15px;
+    width: 10rem;
+}
+img[src="./img/icones/logo_laura-t.png"] {
+    width: 10rem;
+    top: 3.4rem;
+}
+img[src="./img/icones/behind-the-web.png"] {
+    width: 10rem;
+    top: 4.4rem;
+}
+img[src="./img/icones/llama.png"] {
+    width: 8rem;
+    top: 2rem;
+}
+img[src="./img/icones/logo-lucas.png"] {
+    width: 8rem;
+    top: 2.5rem;
+}
+img[src="./img/icones/black-reality.png"] {
+    width: 8rem;
+    top: 1.6rem;
+}
+
+/*
 #projets li::before {
     content: url("icones-css/question-solid.svg");
     position: absolute;
@@ -108,6 +148,8 @@ footer > p {
     left: 20px;
     top: 10px;
 }
+*/
+
 
 #projets li:last-of-type {
     margin-bottom: 4.5rem;

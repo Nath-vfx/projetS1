@@ -25,33 +25,28 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections &quot;user-scalable = no&quot; + bug page neo">
-      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/logo_laura-t.png" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Révision footer">
+      <change afterPath="$PROJECT_DIR$/css/mescss/icones-css/adn-tech.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/Logo_vuittenez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/adn-tech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/behind-the-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/black-reality.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/llama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/logo-design-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/logo-lucas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icones/logo_laura-t.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/arrow-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo_bleu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/Logo_vuittenez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/Web_1920_1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/adn-tech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/behind-the-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/llama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo-design-transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo-lucas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/logo_laura-t.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icones/Logo site finall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icones/MMI_dut_standard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icones/neo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/Bullet stop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/Bullet stop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/Géraud brun.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/Géraud brun.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/code-matrix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/code-matrix.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/datacenter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/datacenter.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/eoliennes-energies-renouvelables.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/eoliennes-energies-renouvelables.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/girl-1245713_640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/grizzlead.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/grizzlead.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/illustration-ia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/illustration-ia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/illustration_chut-768x544-c-default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/illustration_chut-768x544-c-default.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/man-3403180_640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/matrix-reload.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/matrix-reload.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/matrix-revolution.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/matrix-revolution.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/matrix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/matrix.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/parc-solaire.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/parc-solaire.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/parc-éolien.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/parc-éolien.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/portrait-4689319_640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photos/virginie vota mensonges écologiques.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photos/virginie vota mensonges écologiques.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icones/neo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icones/neo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
@@ -185,7 +180,7 @@
       <workItem from="1607630724128" duration="1362000" />
       <workItem from="1607635767275" duration="1790000" />
       <workItem from="1607641397667" duration="2519000" />
-      <workItem from="1607693812299" duration="3462000" />
+      <workItem from="1607693812299" duration="7695000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -481,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607694123879</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Révision footer">
+      <created>1607697766880</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1607697766880</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Bouton lire suite achevé" />
     <MESSAGE value="En-tête accueil mise en forme" />
     <MESSAGE value="Traits sous les titres" />
     <MESSAGE value="Début formulaire" />
@@ -526,6 +527,7 @@
     <MESSAGE value="Corrections de bugs divers" />
     <MESSAGE value="Corrections &quot;user-scalable = no&quot;" />
     <MESSAGE value="Corrections &quot;user-scalable = no&quot; + bug page neo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections &quot;user-scalable = no&quot; + bug page neo" />
+    <MESSAGE value="Révision footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Révision footer" />
   </component>
 </project>
