@@ -43,11 +43,18 @@ ul{
 footer {
     font-size: 1.2rem;
     line-height: 1.6rem;
-    color: #fff;
+    color: #000;
 }
-footer>a {
-    color: darkgrey;
-}
+/*footer>a {
+    font-weight: bold;
+    border-radius: 10px;
+
+    padding: 6px;
+    color: #b55d9d;
+    background-color: #F2F2F2;
+    position: relative;
+    left: 80%;
+}*/
 footer>a:hover {
     text-decoration: underline;
 }
