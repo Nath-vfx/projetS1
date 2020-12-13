@@ -25,15 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections diverses + page &quot;Autres projet V1.1&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icones/question-solid.svg" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Page &quot;Autres projets&quot; V1.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/icones-css/question-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
@@ -173,7 +167,7 @@
       <workItem from="1607715883395" duration="25000" />
       <workItem from="1607776515774" duration="776000" />
       <workItem from="1607803511847" duration="496000" />
-      <workItem from="1607854391304" duration="3575000" />
+      <workItem from="1607854391304" duration="4897000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -483,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607701950045</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Page &quot;Autres projets&quot; V1.3">
+      <created>1607858039429</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1607858039429</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +504,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Traits sous les titres" />
     <MESSAGE value="Début formulaire" />
     <MESSAGE value="Diverses corrections" />
     <MESSAGE value="Carousel" />
@@ -528,7 +528,8 @@
     <MESSAGE value="Corrections &quot;user-scalable = no&quot; + bug page neo" />
     <MESSAGE value="Révision footer" />
     <MESSAGE value="Corrections diverses + page &quot;Autres projet V1.1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections diverses + page &quot;Autres projet V1.1&quot;" />
+    <MESSAGE value="Page &quot;Autres projets&quot; V1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page &quot;Autres projets&quot; V1.3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
