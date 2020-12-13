@@ -25,9 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections affichage &quot;neo&quot;">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction fautes d'orthographe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
@@ -172,7 +174,8 @@
       <workItem from="1607776515774" duration="776000" />
       <workItem from="1607803511847" duration="496000" />
       <workItem from="1607854391304" duration="8642000" />
-      <workItem from="1607879920393" duration="3493000" />
+      <workItem from="1607879920393" duration="3544000" />
+      <workItem from="1607889477451" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605020206285</created>
@@ -510,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607864982509</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Correction fautes d'orthographe">
+      <created>1607884757716</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1607884757716</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +540,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Page autres-projets.html" />
     <MESSAGE value="Correction scrollbar" />
     <MESSAGE value="Caroussel opérationnel" />
     <MESSAGE value="Correction : emplacement boutons" />
@@ -555,7 +564,8 @@
     <MESSAGE value="Intégration vidéo YouTube" />
     <MESSAGE value="Corrections affichage &quot;galerie&quot;" />
     <MESSAGE value="Corrections affichage &quot;neo&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections affichage &quot;neo&quot;" />
+    <MESSAGE value="Correction fautes d'orthographe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction fautes d'orthographe" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
