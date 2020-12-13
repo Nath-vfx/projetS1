@@ -2,8 +2,8 @@
     padding: 20px 0;
 }
 ul.carousel-items img {
-    width: 329px;
-    height: 156px;
+    width: 100%;
+    height: auto;
     border-radius: 10px 10px 0 0;
 }
 ul.carousel-items {

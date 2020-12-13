@@ -26,7 +26,7 @@ header >.titre-index {
     display: block;
     border-top: 1px solid #707070;
     width: 241px;
-    left: 10.7rem;
+    left: 28vw;
     margin-bottom: 20px;
 }
 /*Titres secondaires*/
@@ -41,8 +41,8 @@ footer {
     padding: 10px 80px 14px 14px;
 }
 footer > a > img[src^="./img/icones/Logo_MMI_small_.svg"]{
-    width: 50%;
-    height: 50%;
+    width: 167px;
+    height: 105px;
     margin: -10px 0 -20px 0;
 }
 footer > p {
@@ -55,7 +55,7 @@ footer > p {
 }
 
 .bandeau-navigation > img {
-    width: 25%;
+    width: 107px;
     height: auto;
 }
 /*Articles scientifiques*/
@@ -258,7 +258,7 @@ img[src="./img/photos/Géraud%20brun.jpg"], iframe{
 /*neo*/
 #fond-neo {
     position: relative;
-    right: -40%;
+    right: -40vw;
     top: 20%;
     width: 200%;
 }
