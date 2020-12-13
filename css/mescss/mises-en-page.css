@@ -147,6 +147,13 @@ img[src="./img/icones/logo_blanc.png"] {
     width: 8rem;
     top: 2rem;
 }
+img[src="./img/icones/question-solid.svg"] {
+    width: 8rem;
+    top: 1rem;
+}
+a[href="#willy"]>h4, a[href="#jamy"]>h4 {
+    margin-top: -20px;
+}
 
 /*
 #projets li::before {
