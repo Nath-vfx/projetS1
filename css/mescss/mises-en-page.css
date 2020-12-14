@@ -54,7 +54,7 @@ footer > p {
     height: 9rem;
 }
 
-.bandeau-navigation > img {
+.bandeau-navigation > a > img {
     width: 107px;
     height: auto;
 }
