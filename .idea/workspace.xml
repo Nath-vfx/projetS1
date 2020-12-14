@@ -25,16 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Logo cliquable">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Ajout balises strong + liens dans le texte + corrections diverses">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/a-propos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo_destin_crucial.html" beforeDir="false" afterPath="$PROJECT_DIR$/neo_destin_crucial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pollution_numerique.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution_numerique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions_enjeu_complexe.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions_enjeu_complexe.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
@@ -178,14 +172,7 @@
       <workItem from="1607879920393" duration="3544000" />
       <workItem from="1607889477451" duration="817000" />
       <workItem from="1607942025696" duration="842000" />
-      <workItem from="1607958419709" duration="2189000" />
-    </task>
-    <task id="LOCAL-00003" summary="HTML : Accueil">
-      <created>1605130061047</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1605130061047</updated>
+      <workItem from="1607958419709" duration="3344000" />
     </task>
     <task id="LOCAL-00004" summary="HTML : neo">
       <created>1605130697593</created>
@@ -523,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607958746329</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Ajout balises strong + liens dans le texte + corrections diverses">
+      <created>1607960820790</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1607960820790</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Correction : emplacement boutons" />
     <MESSAGE value="Texte par dessus les images" />
     <MESSAGE value="Ajustement des angles images + zones colorées" />
     <MESSAGE value="Bandeau titres" />
@@ -568,7 +561,8 @@
     <MESSAGE value="Correction fautes d'orthographe" />
     <MESSAGE value="logo entête navigateur" />
     <MESSAGE value="Logo cliquable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo cliquable" />
+    <MESSAGE value="Ajout balises strong + liens dans le texte + corrections diverses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout balises strong + liens dans le texte + corrections diverses" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

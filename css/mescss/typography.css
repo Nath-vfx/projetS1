@@ -22,7 +22,7 @@ body > p {
     text-align: justify;
 }
 body > p > a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #038C65;
 }
 .titre-index{
