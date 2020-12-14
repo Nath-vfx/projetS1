@@ -21,6 +21,10 @@ body > p {
     text-indent: 1.5rem;
     text-align: justify;
 }
+body > p > a {
+    text-decoration: underline;
+    color: #038C65;
+}
 .titre-index{
     text-align: center;
     text-transform: capitalize;
@@ -41,21 +45,16 @@ a{
 ul{
     list-style: none;
 }
+/*footer*/
 footer {
     font-size: 1.2rem;
     line-height: 1.6rem;
     color: #000;
 }
-/*footer>a {
-    font-weight: bold;
-    border-radius: 10px;
-
-    padding: 6px;
-    color: #b55d9d;
-    background-color: #F2F2F2;
-    position: relative;
-    left: 80%;
-}*/
+footer > p > a {
+    text-decoration: underline;
+    color: white;
+}
 footer>a:hover {
     text-decoration: underline;
 }
@@ -103,4 +102,10 @@ body > a > h3 {
     font-family: "Roboto Mono", monospace;
     font-weight: 300;
     font-size: 2.4rem;
+}
+/*description*/
+.description {
+    font-size: 1.1rem;
+    text-indent: initial;
+    margin-top: 0;
 }
