@@ -151,7 +151,7 @@ img[src="./img/icones/question-solid.svg"] {
     width: 8rem;
     top: 1rem;
 }
-a[href="#willy"]>h4, a[href="http://projets1.jamyunverzagt.fr/"]>h4 {
+a[href="#willy"]>h4, a[href="http://projets1.jamyunverzagt.fr/"]>h4, a[href="#gabriel"]>h4 {
     margin-top: -20px;
 }
 
