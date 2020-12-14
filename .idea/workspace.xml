@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Révision page à propos">
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections diverses">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
@@ -171,14 +171,8 @@
       <workItem from="1607879920393" duration="3544000" />
       <workItem from="1607889477451" duration="817000" />
       <workItem from="1607942025696" duration="842000" />
-      <workItem from="1607958419709" duration="3847000" />
-    </task>
-    <task id="LOCAL-00005" summary="HTML : articles + galerie">
-      <created>1605131679701</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605131679701</updated>
+      <workItem from="1607958419709" duration="4090000" />
+      <workItem from="1607972875639" duration="23000" />
     </task>
     <task id="LOCAL-00006" summary="HTML : Corrections des pages">
       <created>1605132552818</created>
@@ -516,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607961880015</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Corrections diverses">
+      <created>1607962333367</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1607962333367</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Ajustement des angles images + zones colorées" />
     <MESSAGE value="Bandeau titres" />
     <MESSAGE value="Début mise en page galerie.html" />
     <MESSAGE value="Menu V1" />
@@ -561,7 +561,8 @@
     <MESSAGE value="Logo cliquable" />
     <MESSAGE value="Ajout balises strong + liens dans le texte + corrections diverses" />
     <MESSAGE value="Révision page à propos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Révision page à propos" />
+    <MESSAGE value="Corrections diverses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections diverses" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
