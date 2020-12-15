@@ -25,9 +25,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Corrections diverses">
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction footer dans body">
+      <change afterPath="$PROJECT_DIR$/img/photos/miniature_micro_visio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/20201206_161456.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
@@ -172,14 +176,8 @@
       <workItem from="1607889477451" duration="817000" />
       <workItem from="1607942025696" duration="842000" />
       <workItem from="1607958419709" duration="4090000" />
-      <workItem from="1607972875639" duration="23000" />
-    </task>
-    <task id="LOCAL-00006" summary="HTML : Corrections des pages">
-      <created>1605132552818</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605132552818</updated>
+      <workItem from="1607972875639" duration="336000" />
+      <workItem from="1608042396261" duration="2189000" />
     </task>
     <task id="LOCAL-00007" summary="CSS : Footer V1">
       <created>1605377462956</created>
@@ -517,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607962333367</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Correction footer dans body">
+      <created>1607972937075</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1607972937075</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Bandeau titres" />
     <MESSAGE value="Début mise en page galerie.html" />
     <MESSAGE value="Menu V1" />
     <MESSAGE value="Menu V2" />
@@ -562,7 +566,8 @@
     <MESSAGE value="Ajout balises strong + liens dans le texte + corrections diverses" />
     <MESSAGE value="Révision page à propos" />
     <MESSAGE value="Corrections diverses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections diverses" />
+    <MESSAGE value="Correction footer dans body" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction footer dans body" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
