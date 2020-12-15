@@ -25,13 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Correction footer dans body">
-      <change afterPath="$PROJECT_DIR$/img/photos/miniature_micro_visio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/20201206_161456.mp4" afterDir="false" />
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Vidéo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mises-en-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mises-en-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
     </list>
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
@@ -74,7 +69,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/Cours/Intégration Web/Exo-Techniques-CSS" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/index.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -177,14 +172,8 @@
       <workItem from="1607942025696" duration="842000" />
       <workItem from="1607958419709" duration="4090000" />
       <workItem from="1607972875639" duration="336000" />
-      <workItem from="1608042396261" duration="2189000" />
-    </task>
-    <task id="LOCAL-00007" summary="CSS : Footer V1">
-      <created>1605377462956</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1605377462956</updated>
+      <workItem from="1608042396261" duration="3248000" />
+      <workItem from="1608049743250" duration="4000" />
     </task>
     <task id="LOCAL-00008" summary="Commit : transfert de sauvegarde">
       <created>1605714265066</created>
@@ -522,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607972937075</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Vidéo">
+      <created>1608044775818</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1608044775819</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +538,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Début mise en page galerie.html" />
     <MESSAGE value="Menu V1" />
     <MESSAGE value="Menu V2" />
     <MESSAGE value="Animation : transitions" />
@@ -567,7 +562,8 @@
     <MESSAGE value="Révision page à propos" />
     <MESSAGE value="Corrections diverses" />
     <MESSAGE value="Correction footer dans body" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction footer dans body" />
+    <MESSAGE value="Vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vidéo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
