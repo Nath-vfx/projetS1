@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Vidéo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ca61c15-9f03-46ce-9311-6fdd9b606c09" name="Default Changelist" comment="Commit final" />
     <list id="320e2ba6-6223-4269-85e3-27d838a8541e" name="Add index" comment="" />
     <list id="b87db8ad-e463-40fa-afb8-f69219e560bd" name="Corrections bug affichage images" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,13 +172,7 @@
       <workItem from="1607972875639" duration="336000" />
       <workItem from="1608042396261" duration="3248000" />
       <workItem from="1608049743250" duration="4000" />
-    </task>
-    <task id="LOCAL-00008" summary="Commit : transfert de sauvegarde">
-      <created>1605714265066</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1605714265066</updated>
+      <workItem from="1608050199137" duration="84000" />
     </task>
     <task id="LOCAL-00009" summary="Bugs liens css">
       <created>1605739271306</created>
@@ -518,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608044775819</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Commit final">
+      <created>1608050213559</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1608050213560</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Menu V1" />
     <MESSAGE value="Menu V2" />
     <MESSAGE value="Animation : transitions" />
     <MESSAGE value="Galerie : v final" />
@@ -563,7 +561,8 @@
     <MESSAGE value="Corrections diverses" />
     <MESSAGE value="Correction footer dans body" />
     <MESSAGE value="Vidéo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vidéo" />
+    <MESSAGE value="Commit final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit final" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
